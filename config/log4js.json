@@ -1,0 +1,1 @@
+{"appenders":{"console":{"type":"console","category":"console"},"file":{"category":"test-file-appender","type":"file","filename":"testLog20191230.log","maxLogSize":10240,"backups":3}},"categories":{"default":{"appenders":["console","file"],"level":"DEBUG"},"file":{"appenders":["file"],"level":"DEBUG"}}}
